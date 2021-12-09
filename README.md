@@ -28,18 +28,16 @@ This project tested several models.  The final model was the one that provided t
 
 The SVD model was the best option.  
 
-The movies with the largest budgets have established franchises and fanbases.  These movies were the most recent Star Wars movies and Avengers movies.
-
-After reviewing the movies with the greatest ROI over the last 5-20 years, movies that can be classified as horror have some of the best returns.  
+ 
 
 
 ## Conclusions and next steps
 
-The smaller dataset was used for this project.
+The smaller dataset was used for this project.  The larger dataset has over 58,000 movies and over 280,000 users.  Will the SVD model provide the best model and results?
 
-How is the film marketed?
+New users should continue to be added and the recommendations should be checked.
 
-Build off of user feedback. Use this to reach the target audience.
+Consider adding new items to the dataset such as television shows.  This will give the potential customers more options.  
 
 ## For More Information
 
