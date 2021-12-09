@@ -26,9 +26,9 @@ This project tested several models.  The final model was the one that provided t
 
 ## Results
 
-The SVD model was the best option.  
+The SVD model was the best option.  The predicted rating for a user may be off on average of just under one star on a a scale of .5-5 stars.  
 
- 
+This result was the best out of the three models that were tested.  
 
 
 ## Conclusions and next steps
