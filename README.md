@@ -2,7 +2,7 @@
 
 **Author**: Bridget Coleman
 
-![Movie_image](images/Movie_image.jpg)
+![Movie_image](images/movie folders.jpg)
 
 ## Overview
 
