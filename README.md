@@ -2,7 +2,7 @@
 
 **Author**: Bridget Coleman
 
-![Movie_image](images/movie folders.jpg)
+![images](images/movie_folders.jpg)
 
 ## Overview
 
@@ -49,8 +49,8 @@ For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmai
 
 
 ```
-├── MICROSOFT_README.md   
-├── Microsoft_presentation.pdf
+├── README.md   
+├── Movielens_presentation.pdf
 ├── images            
-└── Microsoft_Analysis.ipynb         
+└── Movielens_Analysis.ipynb         
 ```
