@@ -14,7 +14,7 @@ With so many options for users, providing the best possible recommendations for 
 
 ## Data
 
-![RT_ratings](images/RT_ratings.jpeg)
+![images](images/User_ratings.png)
 
 The data is from movielens.org.  The smaller dataset was used.  The dataset gave information on 610 users and 9,742 movies.  The users rated at least 20 movies.
 
@@ -22,7 +22,7 @@ The data is from movielens.org.  The smaller dataset was used.  The dataset gave
 
 This project tested several models.  The final model was the one that provided the greatest accruacy on predicting a user's rating of a movie.   
 
-![Horror_movies](images/Horror_movies.jpg)
+![images](images/movie_recommendations.png)
 
 ## Results
 
