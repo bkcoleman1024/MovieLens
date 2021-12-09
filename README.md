@@ -41,7 +41,7 @@ Consider adding new items to the dataset such as television shows.  This will gi
 
 ## For More Information
 
-Please review the full analysis in [my Jupyter Notebook](https://github.com/bkcoleman1024/MovieLens/blob/main/Phase%204%20notebook.pdf) or the [presentation](https://github.com/bkcoleman1024/Microsoft_Analysis/blob/main/Microsoft%20presentation.pdf).
+Please review the full analysis in [my Jupyter Notebook](https://github.com/bkcoleman1024/MovieLens/blob/main/Phase%204%20notebook.pdf) or the [presentation](https://github.com/bkcoleman1024/MovieLens/blob/main/Phase%204%20powerpoint.pdf).
 
 For any additional questions, please contact Bridget Coleman, bkcoleman1024@gmail.com
 
